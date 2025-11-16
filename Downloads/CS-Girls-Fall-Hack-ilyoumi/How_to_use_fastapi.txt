@@ -1,0 +1,17 @@
+1. Create the virtual enviroment 
+Use: python -m venv venv
+
+2. Activate the enviroment 
+Use: venv\Scripts\activate
+
+3. Upgrade the pip 
+Use: python -m pip install --upgrade pip
+
+4. Create a requiments file for easy install
+
+
+//mac
+
+1- python3 -m venv venv
+2- source venv/bin/activate
+3-pip install fastapi uvicorn pymysql sqlalchemy
